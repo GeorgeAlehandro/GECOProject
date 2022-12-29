@@ -1,8 +1,0 @@
-# accession.version	start	stop	gap_length	gap_type	linkage_evidence
-NZ_LT904908.1	193505	193693	189	within_scaffold	paired-ends
-NZ_LT904908.1	612457	612529	73	within_scaffold	paired-ends
-NZ_LT904908.1	1123824	1123996	173	within_scaffold	paired-ends
-NZ_LT904908.1	1126019	1126523	505	within_scaffold	paired-ends
-NZ_LT904908.1	1502840	1503114	275	within_scaffold	paired-ends
-NZ_LT904908.1	1513200	1513249	50	within_scaffold	paired-ends
-NZ_LT904908.1	1535305	1535451	147	within_scaffold	paired-ends
