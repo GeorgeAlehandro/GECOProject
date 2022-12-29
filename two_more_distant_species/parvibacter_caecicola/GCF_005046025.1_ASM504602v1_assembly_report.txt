@@ -1,0 +1,46 @@
+# Assembly name:  ASM504602v1
+# Organism name:  Parvibacter caecicola (actinobacteria)
+# Infraspecific name:  strain=NM48_B13
+# Taxid:          747645
+# BioSample:      SAMN11366395
+# BioProject:     PRJNA474907
+# Submitter:      University of Toronto
+# Date:           2019-05-01
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    SSTM01
+# Assembly method: SPAdes v. 3.10.0
+# Expected final version: no
+# Genome coverage: 1000x
+# Sequencing technology: Illumina MiSeq
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_005046025.1
+# RefSeq assembly accession: GCF_005046025.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_005046045.1	GCF_005046045.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+1	unplaced-scaffold	na	na	SSTM01000001.1	=	NZ_SSTM01000001.1	Primary Assembly	620137	na
+10	unplaced-scaffold	na	na	SSTM01000010.1	=	NZ_SSTM01000010.1	Primary Assembly	40103	na
+11	unplaced-scaffold	na	na	SSTM01000011.1	=	NZ_SSTM01000011.1	Primary Assembly	19874	na
+12	unplaced-scaffold	na	na	SSTM01000012.1	=	NZ_SSTM01000012.1	Primary Assembly	5342	na
+13	unplaced-scaffold	na	na	SSTM01000013.1	=	NZ_SSTM01000013.1	Primary Assembly	960	na
+14	unplaced-scaffold	na	na	SSTM01000014.1	=	NZ_SSTM01000014.1	Primary Assembly	680	na
+2	unplaced-scaffold	na	na	SSTM01000002.1	=	NZ_SSTM01000002.1	Primary Assembly	505702	na
+3	unplaced-scaffold	na	na	SSTM01000003.1	=	NZ_SSTM01000003.1	Primary Assembly	461686	na
+4	unplaced-scaffold	na	na	SSTM01000004.1	=	NZ_SSTM01000004.1	Primary Assembly	286036	na
+5	unplaced-scaffold	na	na	SSTM01000005.1	=	NZ_SSTM01000005.1	Primary Assembly	122542	na
+6	unplaced-scaffold	na	na	SSTM01000006.1	=	NZ_SSTM01000006.1	Primary Assembly	121645	na
+7	unplaced-scaffold	na	na	SSTM01000007.1	=	NZ_SSTM01000007.1	Primary Assembly	83210	na
+8	unplaced-scaffold	na	na	SSTM01000008.1	=	NZ_SSTM01000008.1	Primary Assembly	80627	na
+9	unplaced-scaffold	na	na	SSTM01000009.1	=	NZ_SSTM01000009.1	Primary Assembly	64334	na
