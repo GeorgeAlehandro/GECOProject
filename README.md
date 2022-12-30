@@ -28,3 +28,6 @@ Plots and paf files available <a href="https://github.com/GeorgeAlehandro/GECOPr
 <img src="https://github.com/GeorgeAlehandro/GECOProject/blob/main/comparison_dgenies/s_anaerobiaVSs_faecalis.png" style="width:800px;height:500px;">
 <h4> Cusp, compseq, CAI </h4>
 The results are available in each of the genome folders or concatenated in excel tables.
+<h4> BlastN and BlastP results </h4>
+Respectively, <a href="https://github.com/GeorgeAlehandro/GECOProject/tree/main/blastn_results">here</a> and <a href="https://github.com/GeorgeAlehandro/GECOProject/tree/main/blastp_results">there</a>.  
+To reproduce the ANI, AF and AAI results, one should run the corresponding python functions on these files.
