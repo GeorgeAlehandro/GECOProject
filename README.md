@@ -1,5 +1,5 @@
 # GECOProject
-M2 - Comparative Genomics - Resources repository
+M2 DLAD - Comparative Genomics - Resources repository
 <h1> Comparative genomic study reveals the signature collinsella regions coding for sugar-degrading enzymes and key differences within and out the genus </h1>
 <h2> Additional data, scripts and sheets for the report. </h2>
 <h3> Python scripts </h3>
