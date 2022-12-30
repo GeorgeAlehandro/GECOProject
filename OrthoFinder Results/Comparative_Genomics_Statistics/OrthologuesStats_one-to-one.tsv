@@ -1,0 +1,6 @@
+	collinsella_aerofaciens	collinsella_intestinalis	collinsella_provencensis	senegalimassilia_anaerobia	senegalimassilia_faecalis
+collinsella_aerofaciens	0.0	1017.0	970.0	913.0	892.0
+collinsella_intestinalis	1017.0	0.0	974.0	774.0	782.0
+collinsella_provencensis	970.0	974.0	0.0	722.0	739.0
+senegalimassilia_anaerobia	913.0	774.0	722.0	0.0	1387.0
+senegalimassilia_faecalis	892.0	782.0	739.0	1387.0	0.0

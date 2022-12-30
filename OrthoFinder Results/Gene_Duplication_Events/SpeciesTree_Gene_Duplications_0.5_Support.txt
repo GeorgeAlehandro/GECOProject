@@ -1,0 +1,1 @@
+((senegalimassilia_anaerobia_55:0.0816058,senegalimassilia_faecalis_148:0.0818962)N1_76:0.283056,(collinsella_aerofaciens_159:0.1851,(collinsella_provencensis_72:0.147836,collinsella_intestinalis_56:0.132408)N3_6:0.0952934)N2_60:0.283056)N0_32;

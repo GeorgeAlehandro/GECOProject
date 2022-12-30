@@ -1,0 +1,15 @@
+2022-12-28 16:01:27 : Started OrthoFinder version 2.5.4
+Command Line: /home/ubuntu/OrthoFinder/orthofinder -f primary_transcripts
+
+WorkingDirectory_Base: /home/ubuntu/OrthoFinder/primary_transcripts/OrthoFinder/Results_Dec28_1/WorkingDirectory/
+
+Species used: 
+0: collinsella_aerofaciens.faa
+1: collinsella_intestinalis.faa
+2: collinsella_provencensis.faa
+3: senegalimassilia_anaerobia.faa
+4: senegalimassilia_faecalis.faa
+
+FN_Orthogroups: /home/ubuntu/OrthoFinder/primary_transcripts/OrthoFinder/Results_Dec28_1/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /home/ubuntu/OrthoFinder/primary_transcripts/OrthoFinder/Results_Dec28_1/WorkingDirectory/
+2022-12-28 16:02:37 : OrthoFinder run completed
